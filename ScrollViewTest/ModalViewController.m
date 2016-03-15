@@ -36,9 +36,8 @@
     
 }
 
-- (IBAction)didPressedCloseButton:(id)sender {
+- (IBAction)didPressCloseButton:(id)sender {
  
-    self.subScrollView.delegate = nil;
     [self dismissViewControllerAnimated:YES completion:nil];
     
 }

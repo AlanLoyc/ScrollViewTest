@@ -27,7 +27,7 @@
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <state key="normal" title="Close"/>
                             <connections>
-                                <action selector="didPressedCloseButton:" destination="-1" eventType="touchUpInside" id="FQc-NS-wVG"/>
+                                <action selector="didPressCloseButton:" destination="-1" eventType="touchUpInside" id="p7W-rt-kzN"/>
                             </connections>
                         </button>
                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Modal View" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="M33-jr-Dq1">

@@ -15,6 +15,4 @@
 @property (strong, nonatomic) IBOutlet UILabel *textLabel;
 @property (strong, nonatomic) IBOutlet UIButton *closeButton;
 
-- (IBAction)didPressedCloseButton:(id)sender;
-
 @end
